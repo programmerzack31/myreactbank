@@ -2,7 +2,7 @@ import React from 'react'
 import { useContext } from 'react'
 import { useState } from 'react'
 import { MyBankcontext } from './Mycontext'
-import './bank.css'
+// import './bank.css'
 
 
 const Wshow=()=>{

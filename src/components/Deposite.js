@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { useContext } from 'react'
 import { MyBankcontext } from './Mycontext'
-import './bank.css'
+// import './bank.css'
 
 const DepositShow=()=>{
   const Dbox = document.querySelector(".Dbox");
